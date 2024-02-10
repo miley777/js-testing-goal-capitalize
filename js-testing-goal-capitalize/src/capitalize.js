@@ -3,4 +3,5 @@ export const capitalize = (text) => {
   return `${firstSymbol.toUpperCase()}${restSymbols.join('')}`;
 };
 
+//пробую сломать
 capitalize(null);
